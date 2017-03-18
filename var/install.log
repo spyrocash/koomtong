@@ -1,0 +1,15 @@
+[0.00001] [Error] /var/www/html/koomtong.com/config.local.php - no read or write permissions (666)
+[0.00122] [Error] /var/www/html/koomtong.com/images/blog/1/1.png - no read or write permissions (666)
+[0.00245] [Error] /var/www/html/koomtong.com/design/backend/css/addons/call_requests/styles.less - no read or write permissions (666)
+[0.00311] [Error] /var/www/html/koomtong.com/var/conf/httpd.ini.dist - no read or write permissions (666)
+[0.00377] [Error] Server configuration does not meet the requirements
+[0.00406] [Error] Incorrect permissions are assigned to the files and/or folders listed below.
+[0.00001] [Notice] Could not connect to database
+[0.00025] [Error] MySQL settings are not valid
+[0.00001] [Notice] Could not connect to database
+[0.00025] [Error] MySQL settings are not valid
+[0.00001] [Notice] Creating database scheme
+[0.40111] [Notice] Importing data
+[1.02917] [Notice] Creating demo
+[2.25268] [Notice] Installing additional language en
+[2.79777] [Notice] Installing additional language en
